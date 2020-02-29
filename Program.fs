@@ -1,9 +1,4 @@
 ﻿// Learn more about F# at http://fsharp.org
-(*
-    Varun Subramanian
-    vsubra25
-    CS 341 - Homework 06
-*)
 //module HW_01
 //#load "Program.fs"
 #light
